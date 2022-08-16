@@ -86,12 +86,17 @@ body::-webkit-scrollbar-thumb {
 
 .app.dark .coding-profile,
 .app.dark .content,
-.app.dark .content a {
-  color: var(--color-accent-3);
+.app.dark .content a,
+.app.dark .coding-profile a {
+  color: var(--color-accent-3) !important;
+}
+
+.app.dark .coding-profile a:after {
+  background-color: var(--color-accent-3);
 }
 
 .app.dark .content a:hover {
-  color: var(--text-color-default);
+  color: var(--text-color-default) !important;
 }
 
 nav {
