@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&family=Roboto:wght@400;500;700&display=swap");
 
 *,
 *::before,
@@ -50,7 +50,7 @@ body::-webkit-scrollbar-thumb {
   --text-footer: #e2cdfc;
   --separator-color: #e6ecf8;
   --color-scrollbar-thumb: #141c3a;
-  --font-pre: "Roboto Mono", monospace;
+  --font-pre: "Poppins", sans-serif;
   --font-main: "Roboto", sans-serif;
   min-height: 100vh;
   width: 100vw;
