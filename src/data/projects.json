@@ -1,0 +1,16 @@
+[
+  {
+    "title": "SuperChat",
+    "image": "../images/superchat.png",
+    "github": "https://github.com/Cursed-Ninja/SuperChat",
+    "link": "https://superchat-93276.herokuapp.com/",
+    "description": "A fully functional and fully responsive web chat application to chat with your loved ones! Built with React and firebase."
+  },
+  {
+    "title": "100 days 100 projects",
+    "image": "../images/100days100projects.png",
+    "github": "https://github.com/Cursed-Ninja/100days100projects",
+    "link": "https://cursed-ninja.github.io/100days100projects/",
+    "description": "A collection of 49 mini and fully responsive projects developed using HTML, CSS and JS."
+  }
+]

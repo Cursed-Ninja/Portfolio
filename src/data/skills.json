@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Languages",
+    "data": [
+      "C",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "PL/SQL",
+      "PHP",
+      "XML",
+      "Bash Scripting"
+    ]
+  },
+  {
+    "name": "Libraries",
+    "data": [
+      "ReactJS",
+      "ExpressJS",
+      "PassportJS",
+      "Bootstrap",
+      "Express-session",
+      "Redux",
+      "Mongoose"
+    ]
+  },
+  {
+    "name": "Frameworks, Tools and Services",
+    "data": ["NodeJS", "Firebase", "Git", "GitHub", "VSCode"]
+  },
+  {
+    "name": "Databases",
+    "data": ["MongoDB", "Firestore", "MySQL", "OracleSQL"]
+  }
+]
