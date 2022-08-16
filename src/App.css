@@ -128,6 +128,9 @@ nav li {
   padding: 0.25rem 0.5rem;
   position: relative;
   overflow: hidden;
+  word-wrap: normal;
+  word-break: normal;
+  text-align: center;
 }
 
 nav li::after {
@@ -257,6 +260,7 @@ nav li:hover::after {
   max-width: 100%;
   word-wrap: break-word;
   white-space: pre-wrap;
+  padding: 0 0.5rem;
 }
 
 .cursor {
