@@ -789,6 +789,7 @@ h2 {
 
 .react-icon {
   width: 1rem;
+  animation: spin 10s linear infinite;
 }
 
 .loader {
