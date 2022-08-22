@@ -99,6 +99,11 @@ body::-webkit-scrollbar-thumb {
   color: var(--text-color-default) !important;
 }
 
+.app.dark .loader {
+  border-color: var(--color-accent-1);
+  border-top-color: transparent;
+}
+
 nav {
   margin-bottom: 1rem;
 }
