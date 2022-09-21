@@ -8,7 +8,7 @@ const Leetcode = () => {
     const getData = async () => {
       const res = await getLeetcodeData();
       setLeetcodeData({
-        handle: "cursedninja08",
+        handle: "Cursed_Ninja",
         numberOfProblemsSolved: res.total_problems_solved,
         acceptanceRate: res.acceptance_rate,
         easyProblemSolved: res.easy_questions_solved,
@@ -34,7 +34,7 @@ const Leetcode = () => {
             <h5>HARD PROBLEMS SOLVED: {leetcodeData.hardProblemSolved}</h5>
           </div>
           <a
-            href="https://leetcode.com/CursedNinja08/"
+            href="https://leetcode.com/Cursed_Ninja/"
             target="_blank"
             rel="noopener noreferrer"
           >
