@@ -11,10 +11,10 @@ export const getCodechefData = () =>
   );
 export const getAtcoderData = () =>
   axios.get(
-    "https://competitive-coding-api.herokuapp.com/api/atcoder/cursed_ninja"
+    "https://competitive-coding-api.herokuapp.com/api/atcoder/Cursed_Ninja"
   );
 
 export const getLeetcodeData = () =>
   axios.get(
-    "https://competitive-coding-api.herokuapp.com/api/leetcode/cursedninja08"
+    "https://competitive-coding-api.herokuapp.com/api/leetcode/Cursed_Ninja"
   );
