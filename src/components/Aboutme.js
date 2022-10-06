@@ -18,8 +18,7 @@ const Aboutme = () => {
         I'm a keen learner and a self-motivated person. I love to learn new
         technologies and I am always looking for new challenges. I am a very
         open and friendly person. I am always willing to help others. If you
-        need any help you may contact me via the social media links or by
-        filling up the contact me form.
+        need any help you may contact me via the social media links given below.
         <br />
       </div>
     </>
