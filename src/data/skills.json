@@ -24,12 +24,14 @@
       "Bootstrap",
       "Express-session",
       "Redux",
-      "Mongoose"
+      "Mongoose",
+      "JSON Web Token",
+      "Material UI"
     ]
   },
   {
     "name": "Frameworks, Tools and Services",
-    "data": ["NodeJS", "Firebase", "Git", "GitHub", "VSCode"]
+    "data": ["NodeJS", "Firebase", "Git", "GitHub", "VSCode", "Linux"]
   },
   {
     "name": "Databases",

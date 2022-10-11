@@ -1,9 +1,16 @@
 [
   {
+    "title": "Memories",
+    "image": "../images/memories.png",
+    "github": "https://github.com/Cursed-Ninja/Memories",
+    "link": "https://memories-92761.netlify.app/",
+    "description": "A social media app that allows users to post interesting events that happened in their lives."
+  },
+  {
     "title": "SuperChat",
     "image": "../images/superchat.png",
     "github": "https://github.com/Cursed-Ninja/SuperChat",
-    "link": "https://superchat-93276.herokuapp.com/",
+    "link": "https://superchat-93276.netlify.app/",
     "description": "A fully functional and fully responsive web chat application to chat with your loved ones! Built with React and firebase."
   },
   {
