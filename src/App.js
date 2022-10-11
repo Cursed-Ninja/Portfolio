@@ -9,12 +9,14 @@ import CodingProfile from "./components/CodingProfile";
 import Projects from "./components/Projects";
 import AboutMe from "./components/Aboutme";
 import Footer from "./components/Footer";
+import Achievements from "./components/Achievements";
 
 const App = () => {
   const skillsRef = useRef(null);
   const CodingRef = useRef(null);
   const projectsRef = useRef(null);
   const contactRef = useRef(null);
+  const achievementsRef = useRef(null);
   const [theme, setTheme] = useState(localStorage.getItem("theme") === "true");
   useEffect(() => {
     const localStorageTheme = localStorage.getItem("theme");
@@ -28,7 +30,7 @@ const App = () => {
   return (
     <div className={`app ${theme ? "dark" : ""}`}>
       <Navbar
-        refs={[skillsRef, CodingRef, projectsRef, contactRef]}
+        refs={[skillsRef, CodingRef, projectsRef, achievementsRef, contactRef]}
         theme={theme}
         setTheme={setTheme}
       />
@@ -45,9 +47,11 @@ const App = () => {
       <section ref={CodingRef} className="coding-wrapper">
         <CodingProfile />
       </section>
-      <hr />
       <section ref={projectsRef} className="projects-wrapper">
         <Projects />
+      </section>
+      <section ref={achievementsRef} className="achievements-wrapper">
+        <Achievements />
       </section>
       <section ref={contactRef} className="footer">
         <Footer theme={theme} />

@@ -327,7 +327,8 @@ h2 {
 }
 
 .about-container h1,
-.skills-wrapper h1 {
+.skills-wrapper h1,
+.projects-wrapper h1 {
   font-size: var(--heading-1);
   font-weight: bold;
   margin: auto;
@@ -405,7 +406,8 @@ h2 {
   margin: 2rem auto;
 }
 
-.coding-wrapper {
+.coding-wrapper,
+.achievements-wrapper {
   padding: 2.5rem 1rem;
   display: flex;
   justify-content: center;
@@ -413,7 +415,8 @@ h2 {
   align-items: center;
 }
 
-.coding-profile-container {
+.coding-profile-container,
+.achievements-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -423,6 +426,10 @@ h2 {
   border-radius: 1rem;
   padding: 1rem;
   gap: 2rem;
+}
+
+.achievements-container {
+  align-items: flex-start;
 }
 
 .coding-profile {
@@ -463,7 +470,8 @@ h2 {
   position: relative;
 }
 
-.sub-problems h5::before {
+.sub-problems h5::before,
+.achievements-container p::before {
   position: absolute;
   content: "";
   width: 1rem;
@@ -473,6 +481,15 @@ h2 {
   left: -1.5rem;
   top: 50%;
   transform: translateY(-50%);
+}
+
+.achievements-container {
+  padding: 1rem 3rem;
+}
+
+.achievements-container p {
+  position: relative;
+  text-align: left;
 }
 
 .ranking,
@@ -510,10 +527,15 @@ h2 {
   align-items: center;
   flex-direction: column;
   padding: 2.5rem 0;
+  background-color: var(--color-accent-1);
 }
 
-.projects-wrapper h1,
-.coding-wrapper h1 {
+.projects-wrapper h1 {
+  margin-bottom: 3.25rem;
+}
+
+.coding-wrapper h1,
+.achievements-wrapper h1 {
   font-size: var(--heading-1);
   font-weight: bold;
   margin-bottom: 3.25rem;
@@ -823,6 +845,18 @@ hr {
   }
 }
 
+.achievements-container {
+  gap: 1rem;
+}
+
+.achievements-container p {
+  font-size: 1.5rem;
+}
+
+.app.dark .achievements-container p {
+  color: var(--color-accent-3) !important;
+}
+
 @media (max-width: 850px) {
   .skills {
     flex-direction: column;
@@ -830,6 +864,9 @@ hr {
   .skills-container {
     border-right: none;
     border-bottom: 1px solid var(--separator-color);
+  }
+  .achievements-container p {
+    font-size: 1.2rem;
   }
 }
 
@@ -840,5 +877,12 @@ hr {
   }
   .social {
     justify-content: center;
+  }
+  .achievements-container p {
+    font-size: 1rem;
+  }
+  .achievements-container p::before {
+    width: 0.75rem;
+    height: 0.75rem;
   }
 }

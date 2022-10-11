@@ -1,8 +1,5 @@
 import axios from "axios";
 
-const API = axios.create({ baseURL: "http://localhost:5000" });
-
-export const postMessage = (formData) => API.post("/message", formData);
 export const getCodeforcesData = () =>
   axios.get("https://codeforces.com/api/user.info?handles=Cursed_Ninja");
 export const getCodechefData = () =>
