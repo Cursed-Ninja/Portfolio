@@ -5,13 +5,13 @@ const Aboutme = () => {
     <>
       <h1>About me!</h1>
       <div className="about-me">
-        I'm an undergraduate pursuing Bacherlors of Engineering in Computer
-        Science at UIET, Panjab University. Currently I'm in my third year of
+        I'm an undergraduate pursuing Bachelor of Engineering in Computer
+        Science at UIET, Panjab University. Currently, I'm in my third year of
         Engineering.
         <br />
         <br />
         I love Competitive Programming and Problem Solving. I feel thrilled
-        while giving live contests and solving problems. Apart from this I love
+        while giving live contests and solving problems. Apart from this, I love
         web development. I love building websites and web apps.
         <br />
         <br />

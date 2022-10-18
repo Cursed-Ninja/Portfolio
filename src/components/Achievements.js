@@ -8,7 +8,11 @@ const Achievements = () => {
       <h1>Achievements</h1>
       <div className="achievements-container">
         {achievements.map((achievement, index) => {
-          return <p className = "achievements-font" key={index}>{achievement}</p>;
+          return (
+            <p className="achievements-font" key={index}>
+              {achievement}
+            </p>
+          );
         })}
       </div>
     </>
