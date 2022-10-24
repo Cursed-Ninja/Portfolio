@@ -5,9 +5,8 @@ const Aboutme = () => {
     <>
       <h1>About me!</h1>
       <div className="about-me">
-        I'm an undergraduate pursuing Bachelor of Engineering in Computer
-        Science at UIET, Panjab University. Currently, I'm in my third year of
-        Engineering.
+        I'm pursuing a Bachelor of Engineering in Computer Science at UIET,
+        Panjab University. Currently, I'm in my third year of Engineering.
         <br />
         <br />
         I love Competitive Programming and Problem Solving. I feel thrilled
@@ -16,9 +15,9 @@ const Aboutme = () => {
         <br />
         <br />
         I'm a keen learner and a self-motivated person. I love to learn new
-        technologies and I am always looking for new challenges. I am a very
-        open and friendly person. I am always willing to help others. If you
-        need any help you may contact me via the social media links given below.
+        technologies and always looking for new challenges. I am a very open and
+        friendly person. I am always willing to help others. If you need help,
+        you may contact me via the social media links given below.
         <br />
       </div>
     </>

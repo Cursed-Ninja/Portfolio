@@ -31,7 +31,16 @@
   },
   {
     "name": "Frameworks, Tools and Services",
-    "data": ["NodeJS", "Firebase", "Git", "GitHub", "VSCode", "Linux"]
+    "data": [
+      "NodeJS",
+      "Firebase",
+      "Git",
+      "GitHub",
+      "VSCode",
+      "Linux",
+      "Heroku",
+      "Netlify"
+    ]
   },
   {
     "name": "Databases",
