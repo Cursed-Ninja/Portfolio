@@ -4,7 +4,7 @@ export const getCodeforcesData = () =>
   axios.get("https://codeforces.com/api/user.info?handles=Cursed_Ninja");
 export const getCodechefData = () =>
   axios.get(
-    "https://competitive-programming.onrender.com/api/codechef/shivam23434545"
+    "https://competitive-programming.onrender.com/api/codechef/miracle05"
   );
 export const getAtcoderData = () =>
   axios.get(
