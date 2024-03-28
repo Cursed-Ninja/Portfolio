@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Languages",
+    "data": [
+      "C",
+      "C++",
+      "Python",
+      "Go",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Libraries",
+    "data": [
+      "ReactJS",
+      "ExpressJS",
+      "Bootstrap",
+      "NextJS",
+      "Tailwind CSS",
+      "Redux",
+      "Mongoose",
+      "Material UI",
+      "GraphQL"
+    ]
+  },
+  {
+    "name": "Frameworks, Tools and Services",
+    "data": [
+      "NodeJS",
+      "Firebase",
+      "Git",
+      "GitHub",
+      "VSCode",
+      "Linux",
+      "Netlify",
+      "Vercel",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Databases",
+    "data": ["MongoDB", "Firestore", "MySQL", "OracleSQL"]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Go Authentication",
+    "image": "../images/go-auth.png",
+    "github": "https://github.com/Cursed-Ninja/Go-user-auth",
+    "link": "https://go-user-auth.onrender.com/",
+    "description": "A simple user authentication system built with Go and MySQL."
+  },
+  {
+    "title": "TikTik",
+    "image": "../images/tiktik.png",
+    "github": "https://github.com/Cursed-Ninja/tiktik",
+    "link": "https://tiktik-cursed-ninja.vercel.app/",
+    "description": "A social media application that allows users to post short videos and interact with other users."
+  },
+  {
+    "title": "Memories",
+    "image": "../images/memories.png",
+    "github": "https://github.com/Cursed-Ninja/Memories",
+    "link": "https://memories-92761.netlify.app/",
+    "description": "A social media app that allows users to post interesting events that happened in their lives."
+  },
+  {
+    "title": "SuperChat",
+    "image": "../images/superchat.png",
+    "github": "https://github.com/Cursed-Ninja/SuperChat",
+    "link": "https://superchat-93276.netlify.app/",
+    "description": "A chat app that allows users to chat with each other in real time."
+  }
+]

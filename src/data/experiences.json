@@ -1,0 +1,38 @@
+[
+  {
+    "company": "BDTD",
+    "jobTitle": "Web Developer",
+    "startDate": "July 2022",
+    "endDate": "September 2022",
+    "location": "Chandigarh, India",
+    "techStack": "React, JavaScript, Firebase",
+    "description": "I was tasked to create a full-stack website for the Biomedical Devices and Technology Department under the Department of Science and Technology along with other 2 members.\n\nApart from this, I had to develop an admin component to display the data accumulated from various resources for research to the admin in a presentable form. This was the most challenging part as I had to display more than 10k records in an efficient and appealing form.\n\nThis experience taught me a great deal about designing and developing efficient user interfaces and the importance of considering user experience in my work.\n\nOverall, my work has been focused on leveraging my technical skills to build intuitive and efficient web applications that provide value to the end-users."
+  },
+  {
+    "company": "ZippiAi",
+    "jobTitle": "SDE Intern",
+    "startDate": "October 2022",
+    "endDate": "February 2023",
+    "location": "Remote",
+    "techStack": "React, Node, Express, MongoDB, Socket.io, AWS",
+    "description": "As a full-stack developer, I have had the opportunity to work on several exciting projects, including developing two web applications using the MERN stack that were deployed on AWS.\n\nThe first web application I developed was an admin portal for managing devices, creating users, allocating devices, and much more. This website was designed to streamline device management and enable administrators to perform various device-related tasks quickly and efficiently.\n\nThe second website I developed was a client-end website that allowed users to monitor the data collected by devices and view various analyses calculated in graphical form. This website was designed to be user-friendly and intuitive, allowing users to configure devices and receive real-time updates from them.\n\nThroughout these projects, I leveraged my technical skills to build efficient and intuitive web applications that provided value to the end-users. I am excited about continuing to grow my skills as a web developer and taking on new challenges in this field."
+  },
+  {
+    "company": "TLE Eliminators",
+    "jobTitle": "Competitive Programming Mentor",
+    "startDate": "April 2023",
+    "endDate": "July 2023",
+    "location": "Remote",
+    "techStack": "C++, Competitive Programming, Data Structures, Algorithms",
+    "description": "As a mentor at TLE Eliminators, my role entailed guiding and supporting students in their competitive programming endeavors, fostering their growth by addressing their queries and concerns. I actively engaged in assisting students in their learning process, enabling them to develop their skills, gain insights from their errors, grasp new concepts, and enhance their overall knowledge."
+  },
+  {
+    "company": "Coinbase",
+    "jobTitle": "SDE Intern",
+    "startDate": "May 2023",
+    "endDate": "August 2023",
+    "location": "Remote",
+    "techStack": "Go, GraphQL, Next.js, TypeScript, Docker",
+    "description": "I played an active role in elevating customer satisfaction and increasing employee productivity by implementing state-of-the-art technologies. Additionally, I worked on overhauling the customer help center portal, making it more user-friendly and effective in resolving customer issues."
+  }
+]
