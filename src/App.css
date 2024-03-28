@@ -162,7 +162,7 @@ nav li:hover::after {
 .line {
   width: 2rem;
   height: 0.25rem;
-  background-color: var(--color-3);
+  background-color: var(--color-2);
 }
 
 .hamburger::before,
@@ -170,7 +170,7 @@ nav li:hover::after {
   position: absolute;
   top: 0rem;
   content: "";
-  background-color: var(--color-3);
+  background-color: var(--color-2);
   width: 100%;
   height: 0.25rem;
 }
