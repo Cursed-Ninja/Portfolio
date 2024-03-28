@@ -2,8 +2,8 @@ const ApiError = () => {
   return (
     <div className="coding-profile">
       <h2
-        className="platform"
-        style={{ textAlign: "center", margin: "auto", color: "red" }}
+        className="platform error"
+        style={{ textAlign: "center", margin: "auto", color: "#FF6961" }}
       >
         API Error! Kindly Try Reloading the Page.
       </h2>
