@@ -634,6 +634,14 @@ h2 {
   opacity: 0;
 }
 
+.image-wrapper.no-image {
+  height: 400px;
+}
+
+.image-wrapper.no-image > .content {
+  opacity: 1 !important;
+}
+
 .contact {
   margin-bottom: -1px;
   background: linear-gradient(

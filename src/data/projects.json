@@ -1,17 +1,10 @@
 [
   {
-    "title": "Go Authentication",
-    "image": "../images/go-auth.png",
-    "github": "https://github.com/Cursed-Ninja/Go-user-auth",
-    "link": "https://go-user-auth.onrender.com/",
-    "description": "A simple user authentication system built with Go and MySQL."
-  },
-  {
-    "title": "TikTik",
-    "image": "../images/tiktik.png",
-    "github": "https://github.com/Cursed-Ninja/tiktik",
-    "link": "https://tiktik-cursed-ninja.vercel.app/",
-    "description": "A social media application that allows users to post short videos and interact with other users."
+    "title": "SuperChat",
+    "image": "../images/superchat.png",
+    "github": "https://github.com/Cursed-Ninja/SuperChat",
+    "link": "https://superchat-93276.netlify.app/",
+    "description": "A chat app that allows users to chat with each other in real time."
   },
   {
     "title": "Memories",
@@ -21,10 +14,26 @@
     "description": "A social media app that allows users to post interesting events that happened in their lives."
   },
   {
-    "title": "SuperChat",
-    "image": "../images/superchat.png",
-    "github": "https://github.com/Cursed-Ninja/SuperChat",
-    "link": "https://superchat-93276.netlify.app/",
-    "description": "A chat app that allows users to chat with each other in real time."
+    "title": "TikTik",
+    "image": "../images/tiktik.png",
+    "github": "https://github.com/Cursed-Ninja/tiktik",
+    "link": "https://tiktik-cursed-ninja.vercel.app/",
+    "description": "A social media application that allows users to post short videos and interact with other users."
+  },
+  {
+    "title": "Go Authentication",
+    "image": "../images/go-auth.png",
+    "github": "https://github.com/Cursed-Ninja/Go-user-auth",
+    "description": "A simple user authentication system built with Go and MySQL."
+  },
+  {
+    "title": "Log ingestor",
+    "github": "https://github.com/Cursed-Ninja/log-ingestor",
+    "description": "The Log Ingestor is a robust system designed to efficiently handle and process log data sent to the backend in JSON format."
+  },
+  {
+    "title": "Redis clone",
+    "github": "https://github.com/Cursed-Ninja/Redis-clone",
+    "description": "A simple clone of redis built with Go."
   }
 ]
