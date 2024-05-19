@@ -35,5 +35,10 @@
     "title": "Redis clone",
     "github": "https://github.com/Cursed-Ninja/Redis-clone",
     "description": "A simple clone of redis built with Go."
+  },
+  {
+    "title": "Url Shortener",
+    "github": "https://github.com/Cursed-Ninja/url-shortner",
+    "description": "A robustly designed backend application that shortens long urls to a more manageable length employing features like async logging, caching and many more."
   }
 ]
