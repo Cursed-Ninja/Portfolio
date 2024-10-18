@@ -33,6 +33,24 @@
     "endDate": "August 2023",
     "location": "Remote",
     "techStack": "Go, GraphQL, Next.js, TypeScript, Docker",
-    "description": "I played an active role in elevating customer satisfaction and increasing employee productivity by implementing state-of-the-art technologies. Additionally, I worked on overhauling the customer help center portal, making it more user-friendly and effective in resolving customer issues."
+    "description": "I played an active role in elevating customer satisfaction and increasing employee productivity by implementing state-of-the-art technologies. Additionally, I worked on overhauling the customer help center portal, making it more user-friendly and thus, effective in resolving customer issues."
+  },
+  {
+    "company": "Policy Bazaar",
+    "jobTitle": "SDE Intern",
+    "startDate": "Jan 2024",
+    "endDate": "June 2024",
+    "location": "Gurgaon, India",
+    "techStack": "React, dotnet framework, dotnet core, C#, Mongo, SQL",
+    "description": "I was part of the team that developed a machine learning model to predict user behavior and preferences, enabling the company to tailor its services to individual users. I also worked on optimizing the model's performance and scalability, ensuring that it could handle large volumes of data efficiently."
+  },
+  {
+    "company": "Coinbase",
+    "jobTitle": "SDE 1",
+    "startDate": "July 2024",
+    "endDate": "Present",
+    "location": "Remote",
+    "techStack": "Go, GraphQL, Next.js, TypeScript, Python",
+    "description": "I'm a part of the CB-GPT Team, working on enterprise level LLM solutions for the company."
   }
 ]

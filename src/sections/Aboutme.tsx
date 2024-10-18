@@ -3,13 +3,12 @@ const Aboutme = () => {
     <>
       <h1>About me!</h1>
       <div className="about-me">
-        I'm a final year student pursuing Bachelor of Engineering in Computer
-        Science at UIET, Panjab University. I have developed a deep interest in
-        Competitive Programming and Problem Solving. I find the challenge of
-        participating in live contests and solving complex problems
-        exhilarating. Aside from my love for programming, I am also passionate
-        about web development. I enjoy creating websites and web applications,
-        which has helped me gain practical experience in this field.
+        I'm a seasoned software developer with experience in working with many
+        different stacks and full stack engineering. I have a strong love for
+        programming and finds thrill in developing new stuff at scale. Besides,
+        I also have developed a deep interest in Competitive Programming and
+        Problem Solving. I find the challenge of participating in live contests
+        and solving complex problems exhilarating.
         <br />
         <br />
         My strong desire to learn has been the driving force behind my success.
