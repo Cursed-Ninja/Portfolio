@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const data = ["Shivam Mahajan", "a Competitive Programmer", "a Web Developer"];
+const data = ["Shivam Mahajan", "a Competitive Programmer", "a Software Developer"];
 
 const TextBox = () => {
   const [text, setText] = useState("");
