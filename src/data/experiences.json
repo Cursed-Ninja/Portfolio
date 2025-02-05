@@ -33,7 +33,7 @@
     "endDate": "August 2023",
     "location": "Remote",
     "techStack": "Go, GraphQL, Next.js, TypeScript, Docker",
-    "description": "I played an active role in elevating customer satisfaction and increasing employee productivity by implementing state-of-the-art technologies. Additionally, I worked on overhauling the customer help center portal, making it more user-friendly and thus, effective in resolving customer issues."
+    "description": "I played an active role in elevating customer satisfaction and increasing employee productivity. Additionally, I worked on overhauling the customer help center portal, making it more user-friendly and thus, effective in resolving customer issues and decreasing the customer contact rate."
   },
   {
     "company": "Policy Bazaar",
@@ -42,7 +42,7 @@
     "endDate": "June 2024",
     "location": "Gurgaon, India",
     "techStack": "React, dotnet framework, dotnet core, C#, Mongo, SQL",
-    "description": "I was part of the team that developed a machine learning model to predict user behavior and preferences, enabling the company to tailor its services to individual users. I also worked on optimizing the model's performance and scalability, ensuring that it could handle large volumes of data efficiently."
+    "description": "I was part of the motor team of PB Partners (brand of Policy Bazaar). I was responsible for developing new features, fixing bugs, and improving the overall performance of the Four Wheeler Motor service. I got my hands on both the frontend and the backend of the system as well as gained knowledge on the insurance sector."
   },
   {
     "company": "Coinbase",
@@ -51,6 +51,6 @@
     "endDate": "Present",
     "location": "Remote",
     "techStack": "Go, GraphQL, Next.js, TypeScript, Python",
-    "description": "I'm a part of the CB-GPT Team, working on enterprise level LLM solutions for the company."
+    "description": "I'm a part of the CB-GPT Team, where I'm working on developing and maintaing the LLM solutions."
   }
 ]
